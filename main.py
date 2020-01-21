@@ -1,5 +1,5 @@
 #Pour que le code fonctionne il vous faut selenium (pip install -U selenium) 
-#il vous faut de plus le driver chromedriver (https://chromedriver.chromium.org/downloads)
+#il vous faut de plus le driver chromedriver dans le même dossier que ce code (https://chromedriver.chromium.org/downloads)
 from selenium import webdriver 
 from time import sleep
 
